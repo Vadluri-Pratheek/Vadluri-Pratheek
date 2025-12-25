@@ -1,10 +1,18 @@
-# Hi there, I'm Pratheek Valduri ! 👋
+<div align="center">
+  <h1>Hi there, I'm Pratheek Vadluri! 👋</h1>
+</div>
 
-### My Coding Stats 🚀
+### My Coding Journey 🚀
 
-<table>
-  <tr>
-    <td><img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark" alt="LeetCode" /></td>
-    <td><img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_USERNAME&theme=dark" alt="Codeforces" /></td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/Prath-ee-k?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+      </td>
+      <td>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Prath-ee-K&theme=dark" alt="Codeforces Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
